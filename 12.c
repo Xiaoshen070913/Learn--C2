@@ -31,5 +31,5 @@ int main (int argc,char const *argv[])
 字符串中找字符串
 char *strstr(const char *s1,const char *s2);
 
-char *strcasestr(const char *s1,const cahr *s2 ;
+char *strcasestr(const char *s1,const cahr *s2 ;忽略大小写
 */
